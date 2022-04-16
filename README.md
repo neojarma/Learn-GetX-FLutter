@@ -1,6 +1,6 @@
 # todo_getx_firebase
 
-A new Flutter project.
+simple todo list with firebase and getx
 
 ## Getting Started
 
