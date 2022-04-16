@@ -1,4 +1,4 @@
-# To do list app
+# Todo list app
 
 simple to do list with firebase and getx
 
