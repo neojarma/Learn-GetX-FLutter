@@ -1,6 +1,6 @@
-# todo_getx_firebase
+# To do list app
 
-simple todo list with firebase and getx
+simple to do list with firebase and getx
 
 ## Getting Started
 
